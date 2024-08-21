@@ -49,5 +49,3 @@ If you have any questions or feedback, please reach out to me at ,
 magedadel265@gmail.com .
 
 ---
-
-يمكنك تخصيص هذا الوصف ليتناسب مع تفاصيل مشروعك الفعلي.
